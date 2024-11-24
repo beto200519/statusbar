@@ -1,0 +1,15 @@
+C:\Users\Norberto Carrillo\source\repos\statuBar_NCL\statuBar_NCL\statuBar_NCL\bin\Debug\netstandard2.0\statuBar_NCL.deps.json
+C:\Users\Norberto Carrillo\source\repos\statuBar_NCL\statuBar_NCL\statuBar_NCL\bin\Debug\netstandard2.0\statuBar_NCL.dll
+C:\Users\Norberto Carrillo\source\repos\statuBar_NCL\statuBar_NCL\statuBar_NCL\bin\Debug\netstandard2.0\ref\statuBar_NCL.dll
+C:\Users\Norberto Carrillo\source\repos\statuBar_NCL\statuBar_NCL\statuBar_NCL\bin\Debug\netstandard2.0\statuBar_NCL.pdb
+C:\Users\Norberto Carrillo\source\repos\statuBar_NCL\statuBar_NCL\statuBar_NCL\obj\Debug\netstandard2.0\statuBar_NCL.csproj.AssemblyReference.cache
+C:\Users\Norberto Carrillo\source\repos\statuBar_NCL\statuBar_NCL\statuBar_NCL\obj\Debug\netstandard2.0\statuBar_NCL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Norberto Carrillo\source\repos\statuBar_NCL\statuBar_NCL\statuBar_NCL\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Norberto Carrillo\source\repos\statuBar_NCL\statuBar_NCL\statuBar_NCL\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Norberto Carrillo\source\repos\statuBar_NCL\statuBar_NCL\statuBar_NCL\obj\Debug\netstandard2.0\statuBar_NCL.AssemblyInfoInputs.cache
+C:\Users\Norberto Carrillo\source\repos\statuBar_NCL\statuBar_NCL\statuBar_NCL\obj\Debug\netstandard2.0\statuBar_NCL.AssemblyInfo.cs
+C:\Users\Norberto Carrillo\source\repos\statuBar_NCL\statuBar_NCL\statuBar_NCL\obj\Debug\netstandard2.0\statuBar_NCL.csproj.CoreCompileInputs.cache
+C:\Users\Norberto Carrillo\source\repos\statuBar_NCL\statuBar_NCL\statuBar_NCL\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Norberto Carrillo\source\repos\statuBar_NCL\statuBar_NCL\statuBar_NCL\obj\Debug\netstandard2.0\statuBar_NCL.dll
+C:\Users\Norberto Carrillo\source\repos\statuBar_NCL\statuBar_NCL\statuBar_NCL\obj\Debug\netstandard2.0\refint\statuBar_NCL.dll
+C:\Users\Norberto Carrillo\source\repos\statuBar_NCL\statuBar_NCL\statuBar_NCL\obj\Debug\netstandard2.0\statuBar_NCL.pdb
